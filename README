@@ -23,7 +23,7 @@ This project is a simple weather application that displays current weather infor
 
 1. **Clone the repository**
 
-   ```bash
+   ```
    git clone <repository-url>
    ```
 
@@ -31,7 +31,7 @@ This project is a simple weather application that displays current weather infor
 
    Ensure you have Node.js installed. Navigate to the project directory and run:
 
-   ```bash
+   ```
    npm install
    ```
 
@@ -39,7 +39,7 @@ This project is a simple weather application that displays current weather infor
 
    Start the Node.js server:
 
-   ```bash
+   ```
    node server.js
    ```
 
